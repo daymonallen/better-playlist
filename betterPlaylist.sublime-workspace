@@ -1,0 +1,555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"Playlist"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"col-",
+				"col-6-12-right"
+			],
+			[
+				"per",
+				"perspective-origin"
+			],
+			[
+				"rotat",
+				"rotateY()"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"f",
+				"forwards"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"col",
+				"col-align-left"
+			],
+			[
+				"dark",
+				"darkgray"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-position"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"post",
+				"post-it-1"
+			],
+			[
+				"pos",
+				"post-it-1"
+			],
+			[
+				"rot",
+				"rotateZ()"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"button",
+				"button-content"
+			],
+			[
+				"butt",
+				"button-profile"
+			],
+			[
+				"rotate",
+				"rotateX()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fet",
+				"fetchBookmarks"
+			],
+			[
+				"book",
+				"bookmarksResults"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"boo",
+				"bookmarks"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"loca",
+				"localStorage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 1166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Emoji: Insert Emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"m",
+				"Material Theme: Configuration"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"console.log(allYears)",
+			"sass();",
+			"sass"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist",
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist/public",
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist/src"
+	],
+	"file_history":
+	[
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist/src/App.js",
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist/src/index.css",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/SublimeMagick/SublimeMagick.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/modur/Documents/React_Development/codetemp/better-playlist/src/index.js",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/sublime-react-ide/ReactIDE.sublime-settings",
+		"/C/Users/modur/Desktop/RestApi/rest-api-playlist-lesson-2/package.json",
+		"/C/Users/modur/Desktop/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+		"/C/Users/modur/Desktop/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/css/components.css",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/css/main.css",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/css/componentHome.css",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/js/main.js",
+		"/C/Users/modur/Desktop/JavaScript-DOM-Tutorial-lesson-3/index.html",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/index.html",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/css/layout.css",
+		"/C/Users/modur/Documents/WEB_DEV/Personal_Website_boilerplate_v2.0/backup.html",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_block.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_colors.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_element.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/test2.html",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/index.html",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/testing.html",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_modifier.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_modules.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/_layout.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/scss/styles.scss",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/styles.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/js/main.js",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/js/plugins.js",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/_modifier.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/_element.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/scss/_block.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/_modules.css",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/Project_template_MASTER_FILE/index.html",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/_layout.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/_colors.css",
+		"/C/Users/modur/Desktop/testproject/projectmain/gulpfile.js",
+		"/C/Users/modur/Desktop/testproject/projectmain/app/css/colors.css",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/C/Users/modur/Desktop/testproject/projectmain/index.html",
+		"/C/Users/modur/Desktop/testproject/projectmain/package.sublime-workspace",
+		"/C/Users/modur/Desktop/testproject/projectmain/package.json",
+		"/C/Users/modur/Documents/WEB_DEV/Study_Prototype/index.html",
+		"/C/Users/modur/Documents/WEB_DEV/Study_Prototype/css/main.css",
+		"/C/Users/modur/Downloads/SimpleCMS/SimpleCMS/_class/simpleCMS.php",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/modur/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/bookmarker_application/js/main.js",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/bookmarker_application/css/main.css",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/bookmarker_application/index.html",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/Working_JS_study/js/main.js",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/Working_JS_study/index.html",
+		"/C/Users/modur/Documents/WEB_DEV/Web Projects/eight-fold/css/components.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file_",
+			"#96A5B4",
+			"block",
+			"top",
+			"display",
+			"~ ",
+			"\t\n",
+			"b_alt",
+			";}",
+			"5px",
+			"Design",
+			"5px",
+			"right",
+			"block_heading_right",
+			"*/\n",
+			"));"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1118
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 63.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "betterPlaylist.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
